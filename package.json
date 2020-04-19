@@ -1,0 +1,24 @@
+{
+  "name": "eslint-homework",
+  "version": "1.0.0",
+  "description": "eslint homework",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MironovaGV/ESLint.git"
+  },
+  "author": "MironovaGV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MironovaGV/ESLint/issues"
+  },
+  "homepage": "https://github.com/MironovaGV/ESLint#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
